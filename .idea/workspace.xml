@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="209974f2-b679-416c-ac22-077f48b338ee" name="Default Changelist" comment="">
+    <list default="true" id="209974f2-b679-416c-ac22-077f48b338ee" name="Default Changelist" comment="this is a practice sample.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Sandeep1904 &lt;sandeephugar19@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -83,8 +88,33 @@
       <option name="project" value="LOCAL" />
       <updated>1577107038546</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="this is a practice sample.">
+      <created>1577107393727</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577107393727</updated>
+    </task>
+    <task id="LOCAL-00005" summary="this is a practice sample.">
+      <created>1577107533436</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577107533436</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this is a practice sample." />
@@ -95,14 +125,19 @@
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
     <state x="75" y="187" width="810" height="680" key="#Web_Browsers/0.0.1920.1051/0.0.1920.1051/0.0.1920.1051@0.0.1920.1051" timestamp="1576709017001" />
-    <state x="0" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576773400928">
+    <state x="0" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577107616572">
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
     <state x="0" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1051/0.0.1920.1051/0.0.1920.1051@0.0.1920.1051" timestamp="1576773400928" />
-    <state x="90" y="122" width="779" height="812" key="CommitChangelistDialog2" timestamp="1577107393665">
+    <state x="0" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1051@0.0.1920.1051" timestamp="1577107616572" />
+    <state x="90" y="122" width="779" height="812" key="CommitChangelistDialog2" timestamp="1577107670297">
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
-    <state x="90" y="122" width="779" height="812" key="CommitChangelistDialog2/0.0.1920.1051@0.0.1920.1051" timestamp="1577107393665" />
+    <state x="90" y="122" width="779" height="812" key="CommitChangelistDialog2/0.0.1920.1051@0.0.1920.1051" timestamp="1577107670297" />
+    <state x="0" y="93" width="1546" height="873" key="DiffContextDialog" timestamp="1577107525253">
+      <screen x="0" y="0" width="1920" height="1051" />
+    </state>
+    <state x="0" y="93" width="1546" height="873" key="DiffContextDialog/0.0.1920.1051@0.0.1920.1051" timestamp="1577107525253" />
     <state x="255" y="268" width="450" height="517" key="FileChooserDialogImpl" timestamp="1577107438661">
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
@@ -115,11 +150,19 @@
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
     <state x="238" y="235" width="483" height="587" key="Github.UntrackedFilesDialog/0.0.1920.1051@0.0.1920.1051" timestamp="1577105997795" />
+    <state x="217" y="239" width="525" height="579" key="RollbackChangesDialog" timestamp="1577107625823">
+      <screen x="0" y="0" width="1920" height="1051" />
+    </state>
+    <state x="217" y="239" width="525" height="579" key="RollbackChangesDialog/0.0.1920.1051@0.0.1920.1051" timestamp="1577107625823" />
     <state x="0" y="160" width="1022" height="733" key="SettingsEditor" timestamp="1577105762428">
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
     <state x="0" y="160" width="1022" height="733" key="SettingsEditor/0.0.1920.1051/0.0.1920.1051/0.0.1920.1051@0.0.1920.1051" timestamp="1576774726491" />
     <state x="0" y="160" key="SettingsEditor/0.0.1920.1051@0.0.1920.1051" timestamp="1577105762428" />
+    <state x="75" y="263" width="810" height="531" key="Vcs.Push.Dialog.v2" timestamp="1577107689135">
+      <screen x="0" y="0" width="1920" height="1051" />
+    </state>
+    <state x="75" y="263" width="810" height="531" key="Vcs.Push.Dialog.v2/0.0.1920.1051@0.0.1920.1051" timestamp="1577107689135" />
     <state x="100" y="100" width="760" height="851" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577105543782">
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
