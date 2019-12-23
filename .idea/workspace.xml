@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="209974f2-b679-416c-ac22-077f48b338ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/udemy_web_samples.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tic_tac_toe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1576707372186</updated>
     </task>
+    <task id="LOCAL-00001" summary="this is a practice sample.">
+      <created>1577106159000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577106159000</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is a practice sample." />
+    <option name="LAST_COMMIT_MESSAGE" value="this is a practice sample." />
   </component>
   <component name="WindowStateProjectService">
     <state x="75" y="187" width="810" height="680" key="#Web_Browsers" timestamp="1576709017001">
@@ -82,6 +85,10 @@
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
     <state x="0" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1051/0.0.1920.1051/0.0.1920.1051@0.0.1920.1051" timestamp="1576773400928" />
+    <state x="90" y="122" width="779" height="812" key="CommitChangelistDialog2" timestamp="1577106158744">
+      <screen x="0" y="0" width="1920" height="1051" />
+    </state>
+    <state x="90" y="122" width="779" height="812" key="CommitChangelistDialog2/0.0.1920.1051@0.0.1920.1051" timestamp="1577106158744" />
     <state x="255" y="268" width="450" height="517" key="FileChooserDialogImpl" timestamp="1577105335512">
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
