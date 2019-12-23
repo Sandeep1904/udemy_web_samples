@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577106889336</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="this is a practice sample.">
+      <created>1577107038546</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577107038546</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -92,10 +99,10 @@
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
     <state x="0" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1051/0.0.1920.1051/0.0.1920.1051@0.0.1920.1051" timestamp="1576773400928" />
-    <state x="90" y="122" width="779" height="812" key="CommitChangelistDialog2" timestamp="1577106889274">
+    <state x="90" y="122" width="779" height="812" key="CommitChangelistDialog2" timestamp="1577107038486">
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
-    <state x="90" y="122" width="779" height="812" key="CommitChangelistDialog2/0.0.1920.1051@0.0.1920.1051" timestamp="1577106889274" />
+    <state x="90" y="122" width="779" height="812" key="CommitChangelistDialog2/0.0.1920.1051@0.0.1920.1051" timestamp="1577107038486" />
     <state x="255" y="268" width="450" height="517" key="FileChooserDialogImpl" timestamp="1577105335512">
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
